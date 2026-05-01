@@ -40,4 +40,4 @@ Built as part of my Business Analyst portfolio.
 - Translating chart outputs into consultant-style insights
 - Structuring a notebook for a non-technical audience
 
-## Project Structure
+
